@@ -1,0 +1,9 @@
+# app-ads.txt cho LINE 98 (Google AdMob & Chartboost)
+#
+# 1. Google AdMob:
+# Thay "pub-XXXXXXXXXXXXXXXX" bằng Publisher ID của bạn (AdMob -> Settings -> Account Information)
+google.com, pub-5575876396196440, DIRECT, f08c47fec0942fa0
+
+# 2. Chartboost:
+# Thay "CHARTBOOST_USER_ID" bằng Chartboost User ID của bạn (Chartboost Dashboard -> User Settings)
+chartboost.com, CHARTBOOST_USER_ID, DIRECT
